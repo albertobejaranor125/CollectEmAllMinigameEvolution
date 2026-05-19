@@ -46,6 +46,7 @@ You need the following libraries installed (statically or via DLLs):
 1. Clone the repository:
 ```bash
 git clone [https://github.com/albertobejaranor125/CollectEmAllMinigameEvolution.git](https://github.com/albertobejaranor125/CollectEmAllMinigameEvolution.git)
+```
 
 2. Build the project in Release mode using Visual Studio (x86 or x64 as per configuration).
 
